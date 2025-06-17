@@ -8,15 +8,7 @@ Can# 👋 Hi, I’m Derek Pezze
 
 ## 🚀 Projects
 
-- **[Data Cleaning & Visualization – Coursera Capstone](https://github.com/derekpezze/data-cleaning-project)**  
-  Used Python and BigQuery to clean raw weather data and create insightful Tableau dashboards.
-
-- **[Manufacturing Inventory Tracker](https://github.com/derekpezze/inventory-tracker)**  
-  Streamlined audit processes for a manufacturing firm using Python scripts and Google Sheets integration.
-
-- **[Dark Souls Mod Loader (Fun Project)](https://github.com/derekpezze/ds-mod-loader)**  
-  Built a lightweight mod loader as a hobby project for Dark Souls, applying file system and scripting skills.
-
+- 
 ---
 
 ## 💼 Skills & Tools
